@@ -68,7 +68,8 @@ The dataset used for this project contains real-world data science job informati
 - 📉 Data Organization: Sorted job titles by descending salary for improved readability.
 - 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
-### 🗺️ Country Median Salaries - Map Chart
+### 🗺️ Country Median Salaries 
+- Map Chart
 
 <img width="1394" height="696" alt="Country" src="https://github.com/user-attachments/assets/cae74e1d-ee5f-43a2-997b-6ed1fe0ff514" />
 
@@ -99,10 +100,14 @@ The dataset used for this project contains real-world data science job informati
 - 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
 #### 🍽️ Background Table
+
   <img width="409" height="306" alt="image" src="https://github.com/user-attachments/assets/4795a118-de88-477c-ba94-7171e36ea98d" />
 #### 📉 Dashboard Implementation
+
   <img width="362" height="395" alt="image" src="https://github.com/user-attachments/assets/e18bec0b-2213-4fa7-8b47-4a31114b0d50" />
+  
 #### ⏰ Count of Job Schedule Type
+
 
 
 ```excel
@@ -119,6 +124,7 @@ The dataset used for this project contains real-world data science job informati
 ```
 
 #### 📉 Dashboard Implementation:
+
 <img width="372" height="405" alt="image" src="https://github.com/user-attachments/assets/00c504c5-f47f-4b9d-9ad4-1dbdf6f0e272" />
 
 ---
