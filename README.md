@@ -145,7 +145,7 @@ README.md
 
 **Shehr Bano**
 
-GitHub: https://github.com/shehrbanossfv08
+GitHub: https://github.com/shehrbanossfv08-eng
 
 LinkedIn: www.linkedin.com/in/shehr-bano-165869420
 
