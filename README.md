@@ -1,6 +1,6 @@
 # global data jobs dashboard
 <img width="1668" height="728" alt="DATA" src="https://github.com/user-attachments/assets/0707e579-23e0-495e-90a3-89a295027058" />
-##  Project Overview
+## Project Overview
 
 This project demonstrates how Microsoft Excel can be used to build an interactive business intelligence dashboard without requiring additional software.
 Users can explore the dataset using interactive slicers and quickly identify trends across different job titles, countries, employment types, and salary metrics.
