@@ -102,6 +102,7 @@ The dataset used for this project contains real-world data science job informati
 #### 🍽️ Background Table
 
   <img width="409" height="306" alt="image" src="https://github.com/user-attachments/assets/4795a118-de88-477c-ba94-7171e36ea98d" />
+  
 #### 📉 Dashboard Implementation
 
   <img width="362" height="395" alt="image" src="https://github.com/user-attachments/assets/e18bec0b-2213-4fa7-8b47-4a31114b0d50" />
