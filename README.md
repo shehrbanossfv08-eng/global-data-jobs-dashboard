@@ -5,7 +5,7 @@
 This project demonstrates how Microsoft Excel can be used to build an interactive business intelligence dashboard without requiring additional software.
 Users can explore the dataset using interactive slicers and quickly identify trends across different job titles, countries, employment types, and salary metrics.
 
-##Dashboard File
+## Dashboard File
 My final dashboard is in global-data-jobs-dashboard.xlsx
 
 ##  Features
@@ -46,13 +46,13 @@ The following Excel skills were utilized for analysis:
 🧮 Formulas and Functions
 ❎ Data Validation
 
-##Data Jobs Dataset
+## Data Jobs Dataset
 The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
 
-👨‍💼 Job titles
-💰 Salaries
-📍 Locations
-🛠️ Skills
+. 👨‍💼 Job titles
+. 💰 Salaries
+. 📍 Locations
+. 🛠️ Skills
 
 
 
